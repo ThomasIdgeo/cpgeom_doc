@@ -1,3 +1,7 @@
 site_name : Site de Documentation CPGEOM
 theme : 
   name : readthedocs
+
+nav :
+- 'Accueil': 'index.md'
+- 'IGN': 'ign.md'
