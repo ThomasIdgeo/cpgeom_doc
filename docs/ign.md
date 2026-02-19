@@ -36,7 +36,7 @@ BD HAIE
 
 ## La stratégie en dessin
 
-![](img/strategie-dessin.jpg)
+![dessin ign](img/strategie-dessin.jpg)
 
 ## L'offre 3D par prise de vue aérienne
 
