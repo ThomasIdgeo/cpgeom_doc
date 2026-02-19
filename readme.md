@@ -29,8 +29,13 @@ Objectif :
   ```
   - Redémarrer l'ordinateur
   - Ouvrir Terminal Debain ou Ubuntu
+
+** Il faut peut-être redémarrer plusieurs fois le PC pour que la mise à jour soit effective.  
+Si la commande précédente n'a pas installé Ubuntu, il faut passer par le Windows Store pour *Obtenir* Ubuntu.  
+Un nouveau redémarrage et votre console ubuntu doit être fonctionnelle.
+
 > [!WARNING]
-> CHoisir l'utilisateur **idgeo** et le mdp **idgeo**
+> Choisir l'utilisateur **idgeo** et le mdp **idgeo**
 
 ### 3. Installer git
 
