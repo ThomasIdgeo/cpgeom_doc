@@ -135,3 +135,4 @@ mkdocs gh-deploy
 - Dans votre repo Github, se rendre dans **Settings** puis dans l'onglet **Pages** et définir la branche **gh-pages** et le dossier racine **/root**.  
 Le site est accessible à l'url [thomasidgeo.github.io/cpgeom_doc/](
 thomasidgeo.github.io/cpgeom_doc/), soit votre_nom.github.io/nom_repo/
+
